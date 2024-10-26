@@ -12,5 +12,3 @@
 ![디자인-4](https://github.com/user-attachments/assets/3246e719-c880-406f-973d-c2cf147454b4)
 ![디자인-5](https://github.com/user-attachments/assets/7b23a211-975e-40f7-8114-d98403df7722)
 ![디자인-6](https://github.com/user-attachments/assets/de6b9b56-558e-4fa8-b57f-0c0d191a6ca5)
-
-![아키텍처 구조-4 1](https://github.com/user-attachments/assets/5fe9a9e0-eb74-44cc-bd74-6494edeb5e0d)
